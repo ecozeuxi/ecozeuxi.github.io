@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ecozeuxi.github.io/IjZ/sitemap_index.txt
+Sitemap: https://ecozeuxi.github.io/Rmf/sitemap_index.txt
+Sitemap: https://ecozeuxi.github.io/Xql/sitemap_index.txt
+Sitemap: https://ecozeuxi.github.io/jpm/sitemap_index.txt
